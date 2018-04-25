@@ -1,5 +1,7 @@
 # peertalk
 
+create Tags
+
 PeerTalk is an iOS and Mac Cocoa library for communicating over USB.
 
     
