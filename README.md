@@ -1,6 +1,9 @@
 # peertalk
 
-create Tags
+###WebDriverAgent旧版本的依赖项目，marekcirkos那个贱人把这个项目删了，害的老子自己上传了一份，大家有需要的自己改一下Cartfile指向我这个项目吧，版本是V1.0
+
+----------
+
 
 PeerTalk is an iOS and Mac Cocoa library for communicating over USB.
 
@@ -63,4 +66,3 @@ It _should_ work.
 
 Demo video: [http://www.youtube.com/watch?v=kQPWy8N0mBg](http://www.youtube.com/watch?v=kQPWy8N0mBg)
 
-<iframe width="880" height="530" src="http://www.youtube.com/embed/kQPWy8N0mBg?hd=1&amp;rel=0" frameborder="0" allowfullscreen></iframe>
